@@ -3,7 +3,7 @@
 
 # ## Data access
 #
-# ## Script 02d01: Code to download the regional ESDL using Python
+# ## Script 01: Code to download the regional ESDL using Python
 #
 #
 # ### Estupinan-Suarez, Gans, et al. (2021). A Regional Earth System Data Lab for Understanding Ecosystem Dynamics: An Example from Tropical South America. Front. Earth Sci. 9:613395. doi: 10.3389/feart.2021.613395

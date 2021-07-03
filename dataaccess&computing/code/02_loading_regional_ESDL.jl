@@ -1,5 +1,5 @@
 # # Data access
-# # Script 02.02: Loading the Regional Earth System Data Lab
+# # Script 02: Loading the Regional Earth System Data Lab
 #
 #
 # ## Estupinan-Suarez, Gans, et al. (2021). A Regional Earth System Data Lab for Understanding Ecosystem Dynamics: An Example from Tropical South America. Front. Earth Sci. 9:613395. doi: 10.3389/feart.2021.613395

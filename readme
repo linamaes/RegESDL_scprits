@@ -1,1 +1,13 @@
-This repository hosts the scripts used for the following scientific publicacion
+This repository hosts the scripts used for the following scientific publicacion: 
+ -Estupinan-Suarez, et al. (2021). A Regional Earth System Data Lab for Understanding Ecosystem Dynamics: An Example from Tropical South America. Front. Earth Sci. 9:613395. doi: 10.3389/feart.2021.613395.
+ -Correspondence to: lestup@bgc-jena.mpg.de, linamaesu@gmail.com
+ 
+Repository structure:
+- The scripts are claassified in two different folders:
+  * figures: It stores scripts used for computing the results and plotting figures in the paper 
+  * dataaccess&computing: It stores scripts used for accessing the Regional Earth System Data Lab and the comparisson between temporal and spatial data storage for computing processing
+
+Scipts information:
+- Details about the programing language and version (i.e., julia, Python) are specified in each script
+
+

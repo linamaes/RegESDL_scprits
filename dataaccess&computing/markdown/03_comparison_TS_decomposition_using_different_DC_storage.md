@@ -1,6 +1,6 @@
 ## Computational Performance
 
-## Script 02.03: Computational comparison of time series decomposition using different Data Cubes storage
+## Script 03: Computational comparison of time series decomposition using different Data Cubes storage
 
 ### Estupinan-Suarez, Gans, et al. (2021). A Regional Earth System Data Lab for Understanding Ecosystem Dynamics: An Example from Tropical South America. Front. Earth Sci. 9:613395. doi: 10.3389/feart.2021.613395
 #### Correspondence to: lestup@bgc-jena.mpg.de, linamaesu@gmail.com
